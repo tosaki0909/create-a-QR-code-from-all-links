@@ -40,39 +40,6 @@
         
     </div>
 
-    <script>
-        // Validasi input URL secara real-time
-        document.getElementById("url-input").addEventListener("input", function() {
-            let url = this.value;
-            let regex = /^(https?:\/\/)?([\w\d-]+\.)+[\w-]{2,}(\/.*)?$/;
-            if (!regex.test(url)) {
-                document.getElementById("url-error").style.display = "block";
-            } else {
-                document.getElementById("url-error").style.display = "none";
-            }
-        });
-
-        // Animasi loading saat submit
-        document.getElementById("qr-form").addEventListener("submit", function() {
-            document.getElementById("loading").style.display = "block";
-        });
-
-        // Mode gelap dengan penyimpanan preferensi pengguna
-        const toggleThemeBtn = document.getElementById("toggle-theme");
-        const body = document.body;
-
-        // Cek preferensi mode gelap
-        
-        toggleThemeBtn.addEventListener("click", function() {
-            body.classList.toggle("dark-mode");
-            localStorage.setItem("darkMode", body.classList.contains("dark-mode") ? "enabled" : "disabled");
-        });
-
-        // Salin link QR Code
-        function copyQRLink() {
-            navigator.clipboard.writeText(document.querySelector(".qr-container img").src);
-            alert("Link QR Code telah disalin!");
-        }
-    </script>
+    <script src="static/script.js"></script>
 </body>
 </html>
