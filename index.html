@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QR Code Generator</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
     <button id="toggle-theme">Dark Mode</button>
@@ -30,10 +30,9 @@
 
         <p id="loading" class="loading" style="display: none;">Membuat QR Code...</p>
 
-        {% if qr_code_url %}
         <div class="qr-container">
-            <img src="{{ qr_code_url }}" alt="QR Code">
-            <a href="{{ qr_code_url }}" download="qrcode.png">
+            <img src="static/qrcode.png" alt="QR Code">
+            <a href="static/qrcode.png" download="qrcode.png">
                 <button>Download QR Code</button>
             </a>
             <button onclick="copyQRLink()">Salin Link QR Code</button>
@@ -71,7 +70,7 @@
 
         // Salin link QR Code
         function copyQRLink() {
-            navigator.clipboard.writeText("{{ qr_code_url }}");
+            navigator.clipboard.writeText(document.querySelector(".qr-container img").src);
             alert("Link QR Code telah disalin!");
         }
     </script>
