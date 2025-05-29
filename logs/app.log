@@ -1,0 +1,69 @@
+2025-05-29 12:13:54,165 - INFO - Aplikasi Flask dimulai
+2025-05-29 12:13:54,166 - INFO - Aplikasi Flask berjalan
+2025-05-29 12:13:54,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-29 12:13:54,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 12:13:54,191 - INFO -  * Restarting with stat
+2025-05-29 12:13:54,410 - INFO - Aplikasi Flask dimulai
+2025-05-29 12:13:54,411 - INFO - Aplikasi Flask berjalan
+2025-05-29 12:13:54,424 - WARNING -  * Debugger is active!
+2025-05-29 12:13:54,425 - INFO -  * Debugger PIN: 849-306-461
+2025-05-29 12:14:50,248 - INFO - 127.0.0.1 - - [29/May/2025 12:14:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:50,306 - INFO - 127.0.0.1 - - [29/May/2025 12:14:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:50,309 - INFO - 127.0.0.1 - - [29/May/2025 12:14:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:50,338 - INFO - 127.0.0.1 - - [29/May/2025 12:14:50] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1" 200 -
+2025-05-29 12:14:52,440 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:52,445 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,446 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,449 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,459 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,984 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:52,990 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,990 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:52,993 - INFO - 127.0.0.1 - - [29/May/2025 12:14:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,003 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,400 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:53,406 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,406 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,413 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,420 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,591 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:53,600 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,601 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,603 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,629 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,770 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:53,776 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,777 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,780 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,791 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,937 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:53,943 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,943 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,946 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:53,963 - INFO - 127.0.0.1 - - [29/May/2025 12:14:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:54,296 - INFO - 127.0.0.1 - - [29/May/2025 12:14:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:54,302 - INFO - 127.0.0.1 - - [29/May/2025 12:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:54,302 - INFO - 127.0.0.1 - - [29/May/2025 12:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:54,305 - INFO - 127.0.0.1 - - [29/May/2025 12:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:54,328 - INFO - 127.0.0.1 - - [29/May/2025 12:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:55,696 - INFO - 127.0.0.1 - - [29/May/2025 12:14:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:55,702 - INFO - 127.0.0.1 - - [29/May/2025 12:14:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:55,702 - INFO - 127.0.0.1 - - [29/May/2025 12:14:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:55,706 - INFO - 127.0.0.1 - - [29/May/2025 12:14:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:55,731 - INFO - 127.0.0.1 - - [29/May/2025 12:14:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,137 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:56,142 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,143 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,147 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,163 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,352 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:56,358 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,358 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,361 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,376 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,560 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-29 12:14:56,566 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,567 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,570 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=BLTHXXyVub3i86d2UzlA HTTP/1.1[0m" 304 -
+2025-05-29 12:14:56,595 - INFO - 127.0.0.1 - - [29/May/2025 12:14:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
