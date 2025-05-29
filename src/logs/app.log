@@ -1,0 +1,472 @@
+2025-05-10 23:12:09,242 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:09,244 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:09,263 - WARNING -  * Debugger is active!
+2025-05-10 23:12:09,265 - INFO -  * Debugger PIN: 138-942-200
+2025-05-10 23:12:40,442 - INFO -  * Detected change in 'F:\\QR-sosial-media-app\\src\\app.py', reloading
+2025-05-10 23:12:40,737 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:40,738 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:40,753 - WARNING -  * Debugger is active!
+2025-05-10 23:12:40,755 - INFO -  * Debugger PIN: 138-942-200
+2025-05-10 23:12:44,274 - INFO -  * Detected change in 'F:\\QR-sosial-media-app\\src\\app.py', reloading
+2025-05-10 23:12:44,555 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:44,556 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:12:44,571 - WARNING -  * Debugger is active!
+2025-05-10 23:12:44,573 - INFO -  * Debugger PIN: 138-942-200
+2025-05-10 23:13:06,026 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:13:06,028 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:13:06,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 23:13:06,056 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 23:13:06,058 - INFO -  * Restarting with stat
+2025-05-10 23:13:06,315 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:13:06,316 - INFO - Aplikasi Flask dimulai
+2025-05-10 23:13:06,331 - WARNING -  * Debugger is active!
+2025-05-10 23:13:06,333 - INFO -  * Debugger PIN: 138-942-200
+2025-05-10 23:13:28,757 - INFO - 127.0.0.1 - - [10/May/2025 23:13:28] "GET / HTTP/1.1" 200 -
+2025-05-10 23:13:30,452 - INFO - QR Code berhasil dibuat: /static/qr_1746944010.png
+2025-05-10 23:13:30,452 - INFO - 127.0.0.1 - - [10/May/2025 23:13:30] "POST / HTTP/1.1" 200 -
+2025-05-10 23:13:30,523 - INFO - 127.0.0.1 - - [10/May/2025 23:13:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 23:13:30,536 - INFO - 127.0.0.1 - - [10/May/2025 23:13:30] "GET /static/qr_1746944010.png HTTP/1.1" 200 -
+2025-05-10 23:15:03,340 - INFO - 127.0.0.1 - - [10/May/2025 23:15:03] "GET / HTTP/1.1" 200 -
+2025-05-10 23:15:09,431 - INFO - QR Code berhasil dibuat: /static/qr_1746944109.png
+2025-05-10 23:15:09,432 - INFO - 127.0.0.1 - - [10/May/2025 23:15:09] "POST / HTTP/1.1" 200 -
+2025-05-10 23:15:09,438 - INFO - 127.0.0.1 - - [10/May/2025 23:15:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 23:15:09,439 - INFO - 127.0.0.1 - - [10/May/2025 23:15:09] "GET /static/qr_1746944109.png HTTP/1.1" 200 -
+2025-05-11 01:10:40,004 - INFO - Aplikasi Flask dimulai
+2025-05-11 01:10:40,007 - INFO - Aplikasi Flask dimulai
+2025-05-11 01:10:40,096 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 01:10:40,096 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 01:10:40,104 - INFO -  * Restarting with stat
+2025-05-11 01:10:40,358 - INFO - Aplikasi Flask dimulai
+2025-05-11 01:10:40,359 - INFO - Aplikasi Flask dimulai
+2025-05-11 01:10:40,375 - WARNING -  * Debugger is active!
+2025-05-11 01:10:40,377 - INFO -  * Debugger PIN: 138-942-200
+2025-05-11 01:10:59,413 - INFO - 127.0.0.1 - - [11/May/2025 01:10:59] "GET / HTTP/1.1" 200 -
+2025-05-11 01:10:59,482 - INFO - 127.0.0.1 - - [11/May/2025 01:10:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-11 01:11:45,491 - INFO - QR Code berhasil dibuat: /static/qr_1746951105.png
+2025-05-11 01:11:45,491 - INFO - 127.0.0.1 - - [11/May/2025 01:11:45] "POST / HTTP/1.1" 200 -
+2025-05-11 01:11:45,497 - INFO - 127.0.0.1 - - [11/May/2025 01:11:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 01:11:45,506 - INFO - 127.0.0.1 - - [11/May/2025 01:11:45] "GET /static/qr_1746951105.png HTTP/1.1" 200 -
+2025-05-11 01:12:16,275 - INFO - 127.0.0.1 - - [11/May/2025 01:12:16] "GET / HTTP/1.1" 200 -
+2025-05-11 01:12:41,560 - INFO - QR Code berhasil dibuat: /static/qr_1746951161.png
+2025-05-11 01:12:41,560 - INFO - 127.0.0.1 - - [11/May/2025 01:12:41] "POST / HTTP/1.1" 200 -
+2025-05-11 01:12:41,569 - INFO - 127.0.0.1 - - [11/May/2025 01:12:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 01:12:41,578 - INFO - 127.0.0.1 - - [11/May/2025 01:12:41] "GET /static/qr_1746951161.png HTTP/1.1" 200 -
+2025-05-11 01:15:53,432 - INFO - 127.0.0.1 - - [11/May/2025 01:15:53] "GET / HTTP/1.1" 200 -
+2025-05-11 01:16:21,105 - INFO - QR Code berhasil dibuat: /static/qr_1746951381.png
+2025-05-11 01:16:21,105 - INFO - 127.0.0.1 - - [11/May/2025 01:16:21] "POST / HTTP/1.1" 200 -
+2025-05-11 01:16:21,111 - INFO - 127.0.0.1 - - [11/May/2025 01:16:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 01:16:21,120 - INFO - 127.0.0.1 - - [11/May/2025 01:16:21] "GET /static/qr_1746951381.png HTTP/1.1" 200 -
+2025-05-11 19:20:46,767 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:20:46,771 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:20:47,078 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 19:20:47,078 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 19:20:47,096 - INFO -  * Restarting with stat
+2025-05-11 19:20:47,663 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:20:47,665 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:20:47,691 - WARNING -  * Debugger is active!
+2025-05-11 19:20:47,696 - INFO -  * Debugger PIN: 571-658-015
+2025-05-11 19:21:48,893 - INFO - 127.0.0.1 - - [11/May/2025 19:21:48] "GET / HTTP/1.1" 200 -
+2025-05-11 19:21:49,011 - INFO - 127.0.0.1 - - [11/May/2025 19:21:49] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-11 19:21:49,071 - INFO - 127.0.0.1 - - [11/May/2025 19:21:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 19:21:58,451 - INFO - 127.0.0.1 - - [11/May/2025 19:21:58] "GET / HTTP/1.1" 200 -
+2025-05-11 19:21:58,460 - INFO - 127.0.0.1 - - [11/May/2025 19:21:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:21:59,936 - INFO - 127.0.0.1 - - [11/May/2025 19:21:59] "GET / HTTP/1.1" 200 -
+2025-05-11 19:21:59,946 - INFO - 127.0.0.1 - - [11/May/2025 19:21:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:24:44,377 - INFO - QR Code berhasil dibuat: /static/qr_1746966283.png
+2025-05-11 19:24:44,379 - INFO - 127.0.0.1 - - [11/May/2025 19:24:44] "POST / HTTP/1.1" 200 -
+2025-05-11 19:24:44,408 - INFO - 127.0.0.1 - - [11/May/2025 19:24:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:24:44,437 - INFO - 127.0.0.1 - - [11/May/2025 19:24:44] "GET /static/qr_1746966283.png HTTP/1.1" 200 -
+2025-05-11 19:26:08,962 - INFO - 127.0.0.1 - - [11/May/2025 19:26:08] "GET /static/qr_1746966283.png HTTP/1.1" 200 -
+2025-05-11 19:27:35,974 - INFO - QR Code berhasil dibuat: /static/qr_1746966455.png
+2025-05-11 19:27:35,975 - INFO - 127.0.0.1 - - [11/May/2025 19:27:35] "POST / HTTP/1.1" 200 -
+2025-05-11 19:27:35,985 - INFO - 127.0.0.1 - - [11/May/2025 19:27:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:27:35,998 - INFO - 127.0.0.1 - - [11/May/2025 19:27:35] "GET /static/qr_1746966455.png HTTP/1.1" 200 -
+2025-05-11 19:30:03,283 - INFO - QR Code berhasil dibuat: /static/qr_1746966603.png
+2025-05-11 19:30:03,283 - INFO - 127.0.0.1 - - [11/May/2025 19:30:03] "POST / HTTP/1.1" 200 -
+2025-05-11 19:30:03,295 - INFO - 127.0.0.1 - - [11/May/2025 19:30:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:30:03,309 - INFO - 127.0.0.1 - - [11/May/2025 19:30:03] "GET /static/qr_1746966603.png HTTP/1.1" 200 -
+2025-05-11 19:42:41,268 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:42:41,271 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:42:41,317 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 19:42:41,317 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 19:42:41,319 - INFO -  * Restarting with stat
+2025-05-11 19:42:41,880 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:42:41,882 - INFO - Aplikasi Flask dimulai
+2025-05-11 19:42:41,909 - WARNING -  * Debugger is active!
+2025-05-11 19:42:41,913 - INFO -  * Debugger PIN: 571-658-015
+2025-05-11 19:42:51,617 - INFO - QR Code berhasil dibuat: /static/qr_1746967371.png
+2025-05-11 19:42:51,626 - INFO - 127.0.0.1 - - [11/May/2025 19:42:51] "POST / HTTP/1.1" 200 -
+2025-05-11 19:42:52,174 - INFO - 127.0.0.1 - - [11/May/2025 19:42:52] "GET /static/qr_1746967371.png HTTP/1.1" 200 -
+2025-05-11 19:42:52,223 - INFO - 127.0.0.1 - - [11/May/2025 19:42:52] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-11 19:43:16,496 - INFO - 127.0.0.1 - - [11/May/2025 19:43:16] "GET / HTTP/1.1" 200 -
+2025-05-11 19:43:16,527 - INFO - 127.0.0.1 - - [11/May/2025 19:43:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:43:16,587 - INFO - 127.0.0.1 - - [11/May/2025 19:43:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 19:43:57,423 - INFO - QR Code berhasil dibuat: /static/qr_1746967437.png
+2025-05-11 19:43:57,424 - INFO - 127.0.0.1 - - [11/May/2025 19:43:57] "POST / HTTP/1.1" 200 -
+2025-05-11 19:43:57,434 - INFO - 127.0.0.1 - - [11/May/2025 19:43:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 19:43:57,445 - INFO - 127.0.0.1 - - [11/May/2025 19:43:57] "GET /static/qr_1746967437.png HTTP/1.1" 200 -
+2025-05-11 23:05:58,353 - INFO - Aplikasi Flask dimulai
+2025-05-11 23:05:58,356 - INFO - Aplikasi Flask dimulai
+2025-05-11 23:05:58,514 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 23:05:58,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 23:05:58,516 - INFO -  * Restarting with stat
+2025-05-11 23:05:59,026 - INFO - Aplikasi Flask dimulai
+2025-05-11 23:05:59,027 - INFO - Aplikasi Flask dimulai
+2025-05-11 23:05:59,053 - WARNING -  * Debugger is active!
+2025-05-11 23:05:59,059 - INFO -  * Debugger PIN: 571-658-015
+2025-05-11 23:06:20,512 - INFO - 127.0.0.1 - - [11/May/2025 23:06:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 23:06:27,628 - INFO - 127.0.0.1 - - [11/May/2025 23:06:27] "GET / HTTP/1.1" 200 -
+2025-05-11 23:06:27,822 - INFO - 127.0.0.1 - - [11/May/2025 23:06:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 23:08:15,463 - INFO - QR Code berhasil dibuat: /static/qr_1746979695.png
+2025-05-11 23:08:15,463 - INFO - 127.0.0.1 - - [11/May/2025 23:08:15] "POST / HTTP/1.1" 200 -
+2025-05-11 23:08:15,473 - INFO - 127.0.0.1 - - [11/May/2025 23:08:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 23:08:15,486 - INFO - 127.0.0.1 - - [11/May/2025 23:08:15] "GET /static/qr_1746979695.png HTTP/1.1" 200 -
+2025-05-11 23:12:37,819 - INFO - 127.0.0.1 - - [11/May/2025 23:12:37] "GET /static/qr_1746979695.png HTTP/1.1" 200 -
+2025-05-11 23:14:06,253 - INFO - 127.0.0.1 - - [11/May/2025 23:14:06] "GET / HTTP/1.1" 200 -
+2025-05-11 23:14:19,422 - INFO - QR Code berhasil dibuat: /static/qr_1746980059.png
+2025-05-11 23:14:19,422 - INFO - 127.0.0.1 - - [11/May/2025 23:14:19] "POST / HTTP/1.1" 200 -
+2025-05-11 23:14:19,431 - INFO - 127.0.0.1 - - [11/May/2025 23:14:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-11 23:14:19,442 - INFO - 127.0.0.1 - - [11/May/2025 23:14:19] "GET /static/qr_1746980059.png HTTP/1.1" 200 -
+2025-05-13 11:59:24,338 - INFO - Aplikasi Flask dimulai
+2025-05-13 11:59:24,340 - INFO - Aplikasi Flask dimulai
+2025-05-13 11:59:24,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 11:59:24,415 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 11:59:24,424 - INFO -  * Restarting with stat
+2025-05-13 11:59:24,692 - INFO - Aplikasi Flask dimulai
+2025-05-13 11:59:24,693 - INFO - Aplikasi Flask dimulai
+2025-05-13 11:59:24,708 - WARNING -  * Debugger is active!
+2025-05-13 11:59:24,712 - INFO -  * Debugger PIN: 105-943-666
+2025-05-13 12:07:14,437 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:07:14,439 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:07:14,468 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 12:07:14,469 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 12:07:14,470 - INFO -  * Restarting with stat
+2025-05-13 12:07:14,736 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:07:14,737 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:07:14,752 - WARNING -  * Debugger is active!
+2025-05-13 12:07:14,756 - INFO -  * Debugger PIN: 105-943-666
+2025-05-13 12:08:08,417 - INFO - 127.0.0.1 - - [13/May/2025 12:08:08] "GET / HTTP/1.1" 200 -
+2025-05-13 12:08:08,490 - INFO - 127.0.0.1 - - [13/May/2025 12:08:08] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 12:08:08,507 - INFO - 127.0.0.1 - - [13/May/2025 12:08:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 12:10:47,223 - INFO - QR Code berhasil dibuat: /static/qr_1747113047.png
+2025-05-13 12:10:47,224 - INFO - 127.0.0.1 - - [13/May/2025 12:10:47] "POST / HTTP/1.1" 200 -
+2025-05-13 12:10:47,230 - INFO - 127.0.0.1 - - [13/May/2025 12:10:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:10:47,239 - INFO - 127.0.0.1 - - [13/May/2025 12:10:47] "GET /static/qr_1747113047.png HTTP/1.1" 200 -
+2025-05-13 12:12:30,721 - INFO - QR Code berhasil dibuat: /static/qr_1747113150.png
+2025-05-13 12:12:30,721 - INFO - 127.0.0.1 - - [13/May/2025 12:12:30] "POST / HTTP/1.1" 200 -
+2025-05-13 12:12:30,727 - INFO - 127.0.0.1 - - [13/May/2025 12:12:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:12:30,739 - INFO - 127.0.0.1 - - [13/May/2025 12:12:30] "GET /static/qr_1747113150.png HTTP/1.1" 200 -
+2025-05-13 12:27:19,627 - INFO - QR Code berhasil dibuat: /static/qr_1747114039.png
+2025-05-13 12:27:19,627 - INFO - 127.0.0.1 - - [13/May/2025 12:27:19] "POST / HTTP/1.1" 200 -
+2025-05-13 12:27:19,636 - INFO - 127.0.0.1 - - [13/May/2025 12:27:19] "GET /static/qr_1747114039.png HTTP/1.1" 200 -
+2025-05-13 12:27:19,647 - INFO - 127.0.0.1 - - [13/May/2025 12:27:19] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 12:36:38,401 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:36:38,403 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:36:38,431 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 12:36:38,431 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 12:36:38,432 - INFO -  * Restarting with stat
+2025-05-13 12:36:38,712 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:36:38,713 - INFO - Aplikasi Flask dimulai
+2025-05-13 12:36:38,729 - WARNING -  * Debugger is active!
+2025-05-13 12:36:38,733 - INFO -  * Debugger PIN: 105-943-666
+2025-05-13 12:37:17,046 - INFO - 127.0.0.1 - - [13/May/2025 12:37:17] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:17,119 - INFO - 127.0.0.1 - - [13/May/2025 12:37:17] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 12:37:17,135 - INFO - 127.0.0.1 - - [13/May/2025 12:37:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 12:37:33,273 - INFO - 127.0.0.1 - - [13/May/2025 12:37:33] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:33,288 - INFO - 127.0.0.1 - - [13/May/2025 12:37:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:33,375 - INFO - 127.0.0.1 - - [13/May/2025 12:37:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 12:37:37,258 - INFO - 127.0.0.1 - - [13/May/2025 12:37:37] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:37,264 - INFO - 127.0.0.1 - - [13/May/2025 12:37:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:37,874 - INFO - 127.0.0.1 - - [13/May/2025 12:37:37] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:37,878 - INFO - 127.0.0.1 - - [13/May/2025 12:37:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:38,193 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:38,200 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:38,369 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:38,375 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:38,881 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "GET / HTTP/1.1" 200 -
+2025-05-13 12:37:38,888 - INFO - 127.0.0.1 - - [13/May/2025 12:37:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:46,256 - INFO - QR Code berhasil dibuat: /static/qr_1747114666.png
+2025-05-13 12:37:46,256 - INFO - 127.0.0.1 - - [13/May/2025 12:37:46] "POST / HTTP/1.1" 200 -
+2025-05-13 12:37:46,263 - INFO - 127.0.0.1 - - [13/May/2025 12:37:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 12:37:46,266 - INFO - 127.0.0.1 - - [13/May/2025 12:37:46] "GET /static/qr_1747114666.png HTTP/1.1" 200 -
+2025-05-13 13:13:19,890 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:13:19,893 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:13:19,923 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 13:13:19,923 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 13:13:19,924 - INFO -  * Restarting with stat
+2025-05-13 13:13:20,190 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:13:20,191 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:13:20,206 - WARNING -  * Debugger is active!
+2025-05-13 13:13:20,210 - INFO -  * Debugger PIN: 105-943-666
+2025-05-13 13:44:55,971 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:44:55,973 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:44:56,004 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 13:44:56,004 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 13:44:56,005 - INFO -  * Restarting with stat
+2025-05-13 13:44:56,274 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:44:56,275 - INFO - Aplikasi Flask dimulai
+2025-05-13 13:44:56,290 - WARNING -  * Debugger is active!
+2025-05-13 13:44:56,293 - INFO -  * Debugger PIN: 105-943-666
+2025-05-13 13:48:08,912 - INFO - 127.0.0.1 - - [13/May/2025 13:48:08] "GET / HTTP/1.1" 200 -
+2025-05-13 13:48:09,203 - INFO - 127.0.0.1 - - [13/May/2025 13:48:09] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 13:48:09,668 - INFO - 127.0.0.1 - - [13/May/2025 13:48:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 13:49:29,017 - INFO - QR Code berhasil dibuat: /static/qr_1747118968.png
+2025-05-13 13:49:29,018 - INFO - 127.0.0.1 - - [13/May/2025 13:49:29] "POST / HTTP/1.1" 200 -
+2025-05-13 13:49:29,465 - INFO - 127.0.0.1 - - [13/May/2025 13:49:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 13:49:29,500 - INFO - 127.0.0.1 - - [13/May/2025 13:49:29] "GET /static/qr_1747118968.png HTTP/1.1" 200 -
+2025-05-13 13:49:51,959 - INFO - 127.0.0.1 - - [13/May/2025 13:49:51] "GET /static/qr_1747118968.png HTTP/1.1" 200 -
+2025-05-13 13:50:18,580 - INFO - QR Code berhasil dibuat: /static/qr_1747119018.png
+2025-05-13 13:50:18,581 - INFO - 127.0.0.1 - - [13/May/2025 13:50:18] "POST / HTTP/1.1" 200 -
+2025-05-13 13:50:19,105 - INFO - 127.0.0.1 - - [13/May/2025 13:50:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 13:50:19,107 - INFO - 127.0.0.1 - - [13/May/2025 13:50:19] "GET /static/qr_1747119018.png HTTP/1.1" 200 -
+2025-05-13 13:51:41,331 - WARNING - Input tidak valid: shopee.co.id/leetofa3
+2025-05-13 13:51:41,331 - INFO - 127.0.0.1 - - [13/May/2025 13:51:41] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-05-13 13:52:17,929 - INFO - QR Code berhasil dibuat: /static/qr_1747119137.png
+2025-05-13 13:52:17,929 - INFO - 127.0.0.1 - - [13/May/2025 13:52:17] "POST / HTTP/1.1" 200 -
+2025-05-13 13:52:18,373 - INFO - 127.0.0.1 - - [13/May/2025 13:52:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 13:52:18,381 - INFO - 127.0.0.1 - - [13/May/2025 13:52:18] "GET /static/qr_1747119137.png HTTP/1.1" 200 -
+2025-05-13 13:53:26,408 - INFO - QR Code berhasil dibuat: /static/qr_1747119206.png
+2025-05-13 13:53:26,408 - INFO - 127.0.0.1 - - [13/May/2025 13:53:26] "POST / HTTP/1.1" 200 -
+2025-05-13 13:53:26,759 - INFO - 127.0.0.1 - - [13/May/2025 13:53:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 13:53:26,797 - INFO - 127.0.0.1 - - [13/May/2025 13:53:26] "GET /static/qr_1747119206.png HTTP/1.1" 200 -
+2025-05-13 13:53:28,595 - INFO - 127.0.0.1 - - [13/May/2025 13:53:28] "GET /static/qr_1747119206.png HTTP/1.1" 200 -
+2025-05-13 13:54:53,918 - INFO - QR Code berhasil dibuat: /static/qr_1747119293.png
+2025-05-13 13:54:53,919 - INFO - 127.0.0.1 - - [13/May/2025 13:54:53] "POST / HTTP/1.1" 200 -
+2025-05-13 13:54:54,301 - INFO - 127.0.0.1 - - [13/May/2025 13:54:54] "GET /static/qr_1747119293.png HTTP/1.1" 200 -
+2025-05-13 13:54:54,370 - INFO - 127.0.0.1 - - [13/May/2025 13:54:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-13 13:55:06,188 - INFO - 127.0.0.1 - - [13/May/2025 13:55:06] "GET /static/qr_1747119293.png HTTP/1.1" 200 -
+2025-05-13 13:56:35,569 - INFO - 127.0.0.1 - - [13/May/2025 13:56:35] "GET / HTTP/1.1" 200 -
+2025-05-13 13:56:35,779 - INFO - 127.0.0.1 - - [13/May/2025 13:56:35] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 13:56:36,010 - INFO - 127.0.0.1 - - [13/May/2025 13:56:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 11:32:25,980 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:32:25,983 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:32:26,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 11:32:26,151 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 11:32:26,152 - INFO -  * Restarting with stat
+2025-05-26 11:32:26,370 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:32:26,371 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:32:26,383 - WARNING -  * Debugger is active!
+2025-05-26 11:32:26,385 - INFO -  * Debugger PIN: 437-907-246
+2025-05-26 11:33:38,196 - INFO - 127.0.0.1 - - [26/May/2025 11:33:38] "GET / HTTP/1.1" 200 -
+2025-05-26 11:33:38,242 - INFO - 127.0.0.1 - - [26/May/2025 11:33:38] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 11:33:38,259 - INFO - 127.0.0.1 - - [26/May/2025 11:33:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 11:34:00,885 - INFO - QR Code berhasil dibuat: /static/qr_1748284440.png
+2025-05-26 11:34:00,886 - INFO - 127.0.0.1 - - [26/May/2025 11:34:00] "POST / HTTP/1.1" 200 -
+2025-05-26 11:34:00,892 - INFO - 127.0.0.1 - - [26/May/2025 11:34:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:34:00,901 - INFO - 127.0.0.1 - - [26/May/2025 11:34:00] "GET /static/qr_1748284440.png HTTP/1.1" 200 -
+2025-05-26 11:35:06,111 - INFO - QR Code berhasil dibuat: /static/qr_1748284506.png
+2025-05-26 11:35:06,112 - INFO - 127.0.0.1 - - [26/May/2025 11:35:06] "POST / HTTP/1.1" 200 -
+2025-05-26 11:35:06,117 - INFO - 127.0.0.1 - - [26/May/2025 11:35:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:35:06,128 - INFO - 127.0.0.1 - - [26/May/2025 11:35:06] "GET /static/qr_1748284506.png HTTP/1.1" 200 -
+2025-05-26 11:35:23,461 - INFO - QR Code berhasil dibuat: /static/qr_1748284523.png
+2025-05-26 11:35:23,461 - INFO - 127.0.0.1 - - [26/May/2025 11:35:23] "POST / HTTP/1.1" 200 -
+2025-05-26 11:35:23,467 - INFO - 127.0.0.1 - - [26/May/2025 11:35:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:35:23,475 - INFO - 127.0.0.1 - - [26/May/2025 11:35:23] "GET /static/qr_1748284523.png HTTP/1.1" 200 -
+2025-05-26 11:47:09,496 - INFO - QR Code berhasil dibuat: /static/qr_1748285229.png
+2025-05-26 11:47:09,496 - INFO - 127.0.0.1 - - [26/May/2025 11:47:09] "POST / HTTP/1.1" 200 -
+2025-05-26 11:47:09,502 - INFO - 127.0.0.1 - - [26/May/2025 11:47:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:47:09,512 - INFO - 127.0.0.1 - - [26/May/2025 11:47:09] "GET /static/qr_1748285229.png HTTP/1.1" 200 -
+2025-05-26 11:48:28,053 - INFO - 127.0.0.1 - - [26/May/2025 11:48:28] "GET /static/qr_1748285229.png HTTP/1.1" 200 -
+2025-05-26 11:53:27,142 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:53:27,144 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:53:27,168 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 11:53:27,168 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 11:53:27,169 - INFO -  * Restarting with stat
+2025-05-26 11:53:27,393 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:53:27,394 - INFO - Aplikasi Flask dimulai
+2025-05-26 11:53:27,406 - WARNING -  * Debugger is active!
+2025-05-26 11:53:27,408 - INFO -  * Debugger PIN: 437-907-246
+2025-05-26 11:54:28,610 - INFO - 127.0.0.1 - - [26/May/2025 11:54:28] "GET / HTTP/1.1" 200 -
+2025-05-26 11:54:28,655 - INFO - 127.0.0.1 - - [26/May/2025 11:54:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:55:30,633 - INFO - QR Code berhasil dibuat: /static/qr_1748285730.png
+2025-05-26 11:55:30,633 - INFO - 127.0.0.1 - - [26/May/2025 11:55:30] "POST / HTTP/1.1" 200 -
+2025-05-26 11:55:30,640 - INFO - 127.0.0.1 - - [26/May/2025 11:55:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:55:30,651 - INFO - 127.0.0.1 - - [26/May/2025 11:55:30] "GET /static/qr_1748285730.png HTTP/1.1" 200 -
+2025-05-26 11:55:48,286 - INFO - QR Code berhasil dibuat: /static/qr_1748285748.png
+2025-05-26 11:55:48,286 - INFO - 127.0.0.1 - - [26/May/2025 11:55:48] "POST / HTTP/1.1" 200 -
+2025-05-26 11:55:48,292 - INFO - 127.0.0.1 - - [26/May/2025 11:55:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:55:48,302 - INFO - 127.0.0.1 - - [26/May/2025 11:55:48] "GET /static/qr_1748285748.png HTTP/1.1" 200 -
+2025-05-26 18:00:08,389 - INFO - Aplikasi Flask dimulai
+2025-05-26 18:00:08,392 - INFO - Aplikasi Flask dimulai
+2025-05-26 18:00:08,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 18:00:08,456 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 18:00:08,458 - INFO -  * Restarting with stat
+2025-05-26 18:00:08,672 - INFO - Aplikasi Flask dimulai
+2025-05-26 18:00:08,673 - INFO - Aplikasi Flask dimulai
+2025-05-26 18:00:08,684 - WARNING -  * Debugger is active!
+2025-05-26 18:00:08,690 - INFO -  * Debugger PIN: 568-042-865
+2025-05-26 18:00:20,181 - INFO - 127.0.0.1 - - [26/May/2025 18:00:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 18:00:24,243 - INFO - QR Code berhasil dibuat: /static/qr_1748307624.png
+2025-05-26 18:00:24,268 - INFO - 127.0.0.1 - - [26/May/2025 18:00:24] "POST / HTTP/1.1" 200 -
+2025-05-26 18:00:24,337 - INFO - 127.0.0.1 - - [26/May/2025 18:00:24] "GET /static/qr_1748307624.png HTTP/1.1" 200 -
+2025-05-26 18:00:24,337 - INFO - 127.0.0.1 - - [26/May/2025 18:00:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:00:27,295 - INFO - QR Code berhasil dibuat: /static/qr_1748307627.png
+2025-05-26 18:00:27,295 - INFO - 127.0.0.1 - - [26/May/2025 18:00:27] "POST / HTTP/1.1" 200 -
+2025-05-26 18:00:27,301 - INFO - 127.0.0.1 - - [26/May/2025 18:00:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:00:27,302 - INFO - 127.0.0.1 - - [26/May/2025 18:00:27] "GET /static/qr_1748307627.png HTTP/1.1" 200 -
+2025-05-26 18:00:29,679 - INFO - QR Code berhasil dibuat: /static/qr_1748307629.png
+2025-05-26 18:00:29,679 - INFO - 127.0.0.1 - - [26/May/2025 18:00:29] "POST / HTTP/1.1" 200 -
+2025-05-26 18:00:29,685 - INFO - 127.0.0.1 - - [26/May/2025 18:00:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:00:29,690 - INFO - 127.0.0.1 - - [26/May/2025 18:00:29] "GET /static/qr_1748307629.png HTTP/1.1" 200 -
+2025-05-26 18:05:01,941 - INFO - QR Code berhasil dibuat: /static/qr_1748307901.png
+2025-05-26 18:05:01,941 - INFO - 127.0.0.1 - - [26/May/2025 18:05:01] "POST / HTTP/1.1" 200 -
+2025-05-26 18:05:01,947 - INFO - 127.0.0.1 - - [26/May/2025 18:05:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:05:01,957 - INFO - 127.0.0.1 - - [26/May/2025 18:05:01] "GET /static/qr_1748307901.png HTTP/1.1" 200 -
+2025-05-26 18:06:01,164 - INFO - QR Code berhasil dibuat: /static/qr_1748307961.png
+2025-05-26 18:06:01,165 - INFO - 127.0.0.1 - - [26/May/2025 18:06:01] "POST / HTTP/1.1" 200 -
+2025-05-26 18:06:01,171 - INFO - 127.0.0.1 - - [26/May/2025 18:06:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:06:01,181 - INFO - 127.0.0.1 - - [26/May/2025 18:06:01] "GET /static/qr_1748307961.png HTTP/1.1" 200 -
+2025-05-26 18:06:12,314 - INFO - QR Code berhasil dibuat: /static/qr_1748307972.png
+2025-05-26 18:06:12,315 - INFO - 127.0.0.1 - - [26/May/2025 18:06:12] "POST / HTTP/1.1" 200 -
+2025-05-26 18:06:12,320 - INFO - 127.0.0.1 - - [26/May/2025 18:06:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:06:12,330 - INFO - 127.0.0.1 - - [26/May/2025 18:06:12] "GET /static/qr_1748307972.png HTTP/1.1" 200 -
+2025-05-29 05:29:48,030 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:29:48,034 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:29:48,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-29 05:29:48,086 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 05:29:48,088 - INFO -  * Restarting with stat
+2025-05-29 05:29:48,305 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:29:48,306 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:29:48,318 - WARNING -  * Debugger is active!
+2025-05-29 05:29:48,323 - INFO -  * Debugger PIN: 849-306-461
+2025-05-29 05:30:04,664 - INFO - 127.0.0.1 - - [29/May/2025 05:30:04] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:04,713 - INFO - 127.0.0.1 - - [29/May/2025 05:30:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-29 05:30:04,730 - INFO - 127.0.0.1 - - [29/May/2025 05:30:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 05:30:06,842 - INFO - 127.0.0.1 - - [29/May/2025 05:30:06] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:06,848 - INFO - 127.0.0.1 - - [29/May/2025 05:30:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:07,403 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:07,408 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:07,698 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:07,704 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:07,875 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:07,880 - INFO - 127.0.0.1 - - [29/May/2025 05:30:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:08,034 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:08,039 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:08,186 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:08,191 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:08,427 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:08,432 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:08,618 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "GET / HTTP/1.1" 200 -
+2025-05-29 05:30:08,623 - INFO - 127.0.0.1 - - [29/May/2025 05:30:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:45,567 - INFO - QR Code berhasil dibuat: /static/qr_1748521845.png
+2025-05-29 05:30:45,568 - INFO - 127.0.0.1 - - [29/May/2025 05:30:45] "POST / HTTP/1.1" 200 -
+2025-05-29 05:30:45,574 - INFO - 127.0.0.1 - - [29/May/2025 05:30:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:30:45,582 - INFO - 127.0.0.1 - - [29/May/2025 05:30:45] "GET /static/qr_1748521845.png HTTP/1.1" 200 -
+2025-05-29 05:45:11,740 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:45:11,742 - INFO - Aplikasi Flask berjalan
+2025-05-29 05:45:11,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-29 05:45:11,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 05:45:11,768 - INFO -  * Restarting with stat
+2025-05-29 05:45:11,989 - INFO - Aplikasi Flask dimulai
+2025-05-29 05:45:11,990 - INFO - Aplikasi Flask berjalan
+2025-05-29 05:45:12,002 - WARNING -  * Debugger is active!
+2025-05-29 05:45:12,003 - INFO -  * Debugger PIN: 849-306-461
+2025-05-29 05:45:20,951 - INFO - 127.0.0.1 - - [29/May/2025 05:45:20] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:21,021 - INFO - 127.0.0.1 - - [29/May/2025 05:45:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:21,039 - INFO - 127.0.0.1 - - [29/May/2025 05:45:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 05:45:22,814 - INFO - 127.0.0.1 - - [29/May/2025 05:45:22] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:22,819 - INFO - 127.0.0.1 - - [29/May/2025 05:45:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:23,270 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:23,275 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:23,438 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:23,444 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:23,590 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:23,595 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:23,742 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "GET / HTTP/1.1" 200 -
+2025-05-29 05:45:23,748 - INFO - 127.0.0.1 - - [29/May/2025 05:45:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:38,096 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 05:45:38,097 - INFO - 127.0.0.1 - - [29/May/2025 05:45:38] "POST / HTTP/1.1" 200 -
+2025-05-29 05:45:38,103 - INFO - 127.0.0.1 - - [29/May/2025 05:45:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 05:45:38,113 - INFO - 127.0.0.1 - - [29/May/2025 05:45:38] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 06:27:18,063 - INFO - Aplikasi Flask dimulai
+2025-05-29 06:27:18,065 - INFO - Aplikasi Flask berjalan
+2025-05-29 06:27:18,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-29 06:27:18,112 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 06:27:18,113 - INFO -  * Restarting with stat
+2025-05-29 06:27:18,343 - INFO - Aplikasi Flask dimulai
+2025-05-29 06:27:18,344 - INFO - Aplikasi Flask berjalan
+2025-05-29 06:27:18,356 - WARNING -  * Debugger is active!
+2025-05-29 06:27:18,358 - INFO -  * Debugger PIN: 849-306-461
+2025-05-29 06:27:45,679 - INFO - 127.0.0.1 - - [29/May/2025 06:27:45] "GET / HTTP/1.1" 200 -
+2025-05-29 06:27:45,767 - INFO - 127.0.0.1 - - [29/May/2025 06:27:45] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-29 06:27:45,783 - INFO - 127.0.0.1 - - [29/May/2025 06:27:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 06:28:25,250 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 06:28:25,251 - INFO - 127.0.0.1 - - [29/May/2025 06:28:25] "POST / HTTP/1.1" 200 -
+2025-05-29 06:28:25,257 - INFO - 127.0.0.1 - - [29/May/2025 06:28:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 06:28:25,265 - INFO - 127.0.0.1 - - [29/May/2025 06:28:25] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 06:29:07,279 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 06:29:07,279 - INFO - 127.0.0.1 - - [29/May/2025 06:29:07] "POST / HTTP/1.1" 200 -
+2025-05-29 06:29:07,286 - INFO - 127.0.0.1 - - [29/May/2025 06:29:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 06:29:07,295 - INFO - 127.0.0.1 - - [29/May/2025 06:29:07] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:05:14,259 - INFO - Aplikasi Flask dimulai
+2025-05-29 07:05:14,261 - INFO - Aplikasi Flask berjalan
+2025-05-29 07:05:14,288 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-29 07:05:14,288 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 07:05:14,289 - INFO -  * Restarting with stat
+2025-05-29 07:05:14,515 - INFO - Aplikasi Flask dimulai
+2025-05-29 07:05:14,516 - INFO - Aplikasi Flask berjalan
+2025-05-29 07:05:14,528 - WARNING -  * Debugger is active!
+2025-05-29 07:05:14,530 - INFO -  * Debugger PIN: 849-306-461
+2025-05-29 07:05:22,117 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:05:22,121 - INFO - 127.0.0.1 - - [29/May/2025 07:05:22] "POST / HTTP/1.1" 200 -
+2025-05-29 07:05:22,172 - INFO - 127.0.0.1 - - [29/May/2025 07:05:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:05:22,173 - INFO - 127.0.0.1 - - [29/May/2025 07:05:22] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:05:56,085 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:05:56,086 - INFO - 127.0.0.1 - - [29/May/2025 07:05:56] "POST / HTTP/1.1" 200 -
+2025-05-29 07:05:56,091 - INFO - 127.0.0.1 - - [29/May/2025 07:05:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:05:56,093 - INFO - 127.0.0.1 - - [29/May/2025 07:05:56] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:06:09,959 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:06:09,959 - INFO - 127.0.0.1 - - [29/May/2025 07:06:09] "POST / HTTP/1.1" 200 -
+2025-05-29 07:06:09,966 - INFO - 127.0.0.1 - - [29/May/2025 07:06:09] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:06:09,980 - INFO - 127.0.0.1 - - [29/May/2025 07:06:09] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-29 07:06:40,750 - INFO - 127.0.0.1 - - [29/May/2025 07:06:40] "GET / HTTP/1.1" 200 -
+2025-05-29 07:06:43,550 - INFO - 127.0.0.1 - - [29/May/2025 07:06:43] "GET / HTTP/1.1" 200 -
+2025-05-29 07:06:43,555 - INFO - 127.0.0.1 - - [29/May/2025 07:06:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:14:39,264 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:14:39,265 - INFO - 127.0.0.1 - - [29/May/2025 07:14:39] "POST / HTTP/1.1" 200 -
+2025-05-29 07:14:39,271 - INFO - 127.0.0.1 - - [29/May/2025 07:14:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:14:39,280 - INFO - 127.0.0.1 - - [29/May/2025 07:14:39] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:35:48,905 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:35:48,906 - INFO - 127.0.0.1 - - [29/May/2025 07:35:48] "POST / HTTP/1.1" 200 -
+2025-05-29 07:35:48,912 - INFO - 127.0.0.1 - - [29/May/2025 07:35:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:35:48,914 - INFO - 127.0.0.1 - - [29/May/2025 07:35:48] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:36:03,537 - INFO - 127.0.0.1 - - [29/May/2025 07:36:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:36:03,558 - INFO - 127.0.0.1 - - [29/May/2025 07:36:03] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-29 07:45:47,462 - INFO - 127.0.0.1 - - [29/May/2025 07:45:47] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-29 07:46:59,952 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:46:59,953 - INFO - 127.0.0.1 - - [29/May/2025 07:46:59] "POST / HTTP/1.1" 200 -
+2025-05-29 07:46:59,963 - INFO - 127.0.0.1 - - [29/May/2025 07:46:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:46:59,965 - INFO - 127.0.0.1 - - [29/May/2025 07:46:59] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:46:59,970 - INFO - 127.0.0.1 - - [29/May/2025 07:46:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-29 07:49:45,768 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:49:45,768 - INFO - 127.0.0.1 - - [29/May/2025 07:49:45] "POST / HTTP/1.1" 200 -
+2025-05-29 07:49:45,778 - INFO - 127.0.0.1 - - [29/May/2025 07:49:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:49:45,780 - INFO - 127.0.0.1 - - [29/May/2025 07:49:45] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:49:45,785 - INFO - 127.0.0.1 - - [29/May/2025 07:49:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-29 07:50:32,759 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:50:32,759 - INFO - 127.0.0.1 - - [29/May/2025 07:50:32] "POST / HTTP/1.1" 200 -
+2025-05-29 07:50:32,770 - INFO - 127.0.0.1 - - [29/May/2025 07:50:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:50:32,779 - INFO - 127.0.0.1 - - [29/May/2025 07:50:32] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-29 07:50:32,782 - INFO - 127.0.0.1 - - [29/May/2025 07:50:32] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:50:55,159 - INFO - QR Code dengan logo berhasil dibuat: static/qrcode_with_logo.png
+2025-05-29 07:50:55,160 - INFO - 127.0.0.1 - - [29/May/2025 07:50:55] "POST / HTTP/1.1" 200 -
+2025-05-29 07:50:55,171 - INFO - 127.0.0.1 - - [29/May/2025 07:50:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-29 07:50:55,173 - INFO - 127.0.0.1 - - [29/May/2025 07:50:55] "GET /static/qrcode_with_logo.png HTTP/1.1" 200 -
+2025-05-29 07:50:55,177 - INFO - 127.0.0.1 - - [29/May/2025 07:50:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
