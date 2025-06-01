@@ -12,21 +12,21 @@
     <div class="container">
         <h1>Buat QR Code dari Link Sosial Media</h1>
 
-        <form method="POST" id="qr-form">
-            <input type="text" name="url" id="url-input" placeholder="Masukkan link sosial media" required>
-            <span id="url-error" style="color:red; display:none;">Harap masukkan URL yang valid!</span>
+    <form method="POST" id="qr-form" enctype="multipart/form-data">
+        <input type="text" name="url" id="url-input" placeholder="Masukkan link sosial media" required>
+        <span id="url-error" style="color:red; display:none;">Harap masukkan URL yang valid!</span>
 
-            <label for="fill_color">Warna QR:</label>
-            <input type="color" name="fill_color" value="#0000ff">
+        <label for="fill_color">Warna QR:</label>
+        <input type="color" name="fill_color" value="#0000ff">
 
-            <label for="back_color">Warna Latar:</label>
-            <input type="color" name="back_color" value="#ffffff">
+        <label for="back_color">Warna Latar:</label>
+        <input type="color" name="back_color" value="#ffffff">
 
-            <label for="logo">Upload Logo:</label>
-            <input type="file" name="logo" accept="image/*">
+        <label for="logo">Upload Logo:</label>
+        <input type="file" name="logo" accept="image/*">
 
-            <button type="submit">Buat QR Code</button>
-        </form>
+        <button type="submit">Buat QR Code</button>
+    </form>
 
         <p id="loading" class="loading" style="display: none;">Membuat QR Code...</p>
 
